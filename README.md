@@ -13,9 +13,9 @@ This is necessary because GitHub won't let me upload data of that size.
 1. Setup a virtual environment with `python3 -m venv venv`.
 2. Install modules with `pip install -r requirements.txt`
 3. Run each of the three python files in the following order:
-a. `flood_analysis.py`
-b. `national_schools_analysis.py`
-c. `flood_analysis.py`
+`flood_analysis.py`
+`national_schools_analysis.py`
+`flood_analysis.py`
 
 Some data will be printed in the terminal, and some files will be put in the output folders for each task.
 
