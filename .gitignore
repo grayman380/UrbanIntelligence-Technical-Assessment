@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.DS_Store
+
+instructions/*
+data/task2/inputs/statsnz-2023-census-totals-by-topic-for-individuals-by-statistical-a-SHP/*
